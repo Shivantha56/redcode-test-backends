@@ -1,2 +1,0 @@
-# redcode-test-backends
-nextjs
